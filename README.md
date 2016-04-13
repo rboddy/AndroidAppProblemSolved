@@ -1,2 +1,2 @@
 # annoyed
-For class / ignore for sanity sake
+For class, but I was glad to get the java practice
